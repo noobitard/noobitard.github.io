@@ -1,163 +1,246 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Tuan Pham",
+    "label": "AI Research Engineer",
+    "picture": "assets/crop.jpg",
+    "email": "tuanpa997@gmail.com",
+    "phone": "(+84) 963-317-692",
+    "website": "https://noobitard.github.io",
+    "summary": "I am (going to be) a Research Engineer at VinAI Research, Vietnam. Prior to that, I was an AI Research Resident at VinAI Research. \n I graduated with honors from Hanoi University of Science and Technology in 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Hanoi",
+      "countryCode": "Vietnam",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "noobitard",
+        "url": "http://github.com/noobitard"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "tuanpa997",
+        "url": "http://linkedin.com/in/tuan-pham-a751661b1/"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "youtube",
+        "username": "hidevn",
+        "url": "https://www.youtube.com/channel/UCh5UW19DQystikJtvBezsKA"
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "soundcloud",
+        "username": "hidevn",
+        "url": "https://soundcloud.com/hidevn"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Reinforcement Learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Bandit Theory",
+        "Theoretical RL"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Deep Reinforcement Learning",
+      "keywords": [
+        "Control from Images",
+        "Sample Efficiency"
+      ]
+    },
+    {
+      "name": "Representation Learning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "MATLAB",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "PyTorch",
+        "Tensorflow 2+",
+        "Numpy",
+        "Matplotlib",
+        "Scikit-Learn"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
-    }
+    },
+    {
+      "name": "Language Proficiency",
+      "level": "",
+      "keywords": [
+        "IELTS 7.5 (Reading: 8.5, Listening: 7.5, Writing: 7.0, Speaking: 6.5), test date: Nov 4th, 2020"
+      ]
+    },
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Hanoi University of Science and Technology",
+      "area": "Applied Mathematics and Informatics, Talented Program (Highest Honours)",
+      "studyType": "B.Eng.",
+      "startDate": "2015",
+      "endDate": "2020",
+      "gpa": "3.69/4.00 (Top 1%)",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "VinAI Research, Vietnam",
+      "position": "AI Research Engineer",
+      "website": "https://vinai.io",
+      "startDate": "Jun 2021",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "AI Research Engineer",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Research Engineer ăn lương sống qua ngày"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "VinAI Research, Vietnam",
+      "position": "AI Research Resident",
+      "website": "https://vinai.io",
+      "startDate": "Jun 2019",
+      "endDate": "Jun 2021",
+      "summary": "AI Research Resident",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Research on Exploration in Reinforcement Learning, Deep Reinforcement Learning and Representation Learning. Supervisors: Dr. Yasin Abbasi-Yadkori and Dr. Tung Pham",
+        "Worked as an AI Engineer for 3 months. Developed a distillation method for VinFast autopilot project"
+      ]
+    },
+    {
+      "company": "Worldquant Vietnam",
+      "position": "Collaborators",
+      "website": "https://worldquant.com",
+      "startDate": "Mar 2019",
+      "endDate": "Jun 2019",
+      "summary": "Collaborators",
+      "highlights": [
+        "Create alpha formulas for trading."
+      ]
+    },
+    {
+      "company": "CMC Insitute of Science and Technology",
+      "position": "Intern",
+      "website": "https://cist.cmc.com.vn",
+      "startDate": "Mar 2019",
+      "endDate": "Jun 2019",
+      "summary": "AI Research Engineer Intern",
+      "highlights": [
+        "Develop a face recognition model based on SphereFace with Caffe for edge device"
+      ]
+    },
+    {
+      "company": "Data Science Laboratory, Hanoi University of Science and Technology",
+      "position": "Undergraduate Research Student",
+      "website": "http://ds.soict.hust.edu.vn",
+      "startDate": "Jun 2018",
+      "endDate": "Jun 2019",
+      "summary": "Undergraduate Research Student",
+      "highlights": [
+        "Research on Topic Modelling, Continual Learning, Variational Autoencoder, under supervision of Dr.Khoat Than"
+      ]
+    },
+    {
+      "company": "Cinnamon AI Labs",
+      "position": "Student",
+      "website": "https://cinnamon.is",
+      "startDate": "Jan 2018",
+      "endDate": "Apr 2018",
+      "summary": "Student of Cinnamon AI Labs Intelligence Program 3, an annual intensive training program in Artificial Intelligence for young talents who desire to become AI engineers in the future.",
+      "highlights": [
+        "Learn and practice about Computer Vision and Natural Language Processing"
+      ]
+    },
+    {
+      "company": "Skymap Global Vietnam",
+      "position": "Frontend Web Developer & AI Engineer Intern",
+      "website": "https://skymapglobal.vn",
+      "startDate": "Mar 2017",
+      "endDate": "Jun 2018",
+      "summary": "Frontend Web Developer & Machine Learning Engineer Intern",
+      "highlights": [
+        "Frontend developer for SalesTrekk, an online solution for business",
+        "Integrate a chatbot for SalesTrekk, based on Google Dialogflow API",
+        "Develop a machine learning model for segmenting houses region from satellite images"
+      ]
+    },
+    {
+      "company": "Viettel Cyber Security",
+      "position": "Intern",
+      "website": "https://viettelcybersecurity.com",
+      "startDate": "Apr 2017",
+      "endDate": "Jul 2017",
+      "summary": "Security Engineer Intern",
+      "highlights": [
+        "Study about Hacking methods",
+        "Attend CTF contests"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "To appear in ICML 2021",
+      "position": "Temporal Predictive Coding For Model-Based Planning In Latent Space, in ICML 2021",
+      "startDate": "",
+      "endDate": "",
+      "summary": "Tung Nguyen*, Tuan Pham*, Rui Shu*, Stefano Ermon, Hung H. Bui",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
       "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
+      "website": "https://arxiv.org/abs/2003.01086",
+      "position": "Predictive Coding for Locally-Linear Control, in ICML 2020",
       "startDate": "",
       "endDate": "",
-      "summary": "",
+      "summary": "Rui Shu*, Tung Nguyen*, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "National Program: Development of Mathematics Scholarship",
+      "date": "2019",
+      "awarder": "Vietnamese Institute of Mathematics",
+      "summary": "Selected students who have exceptional performance in Mathematics in all Vietnamese universities."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Hanoi University of Science and Technology Excellence Scholarship",
+      "date": "2015-2020",
+      "awarder": "Hanoi University of Science and Technology",
+      "summary": "Selected 100 from 30,000 students. Awarded in all 5 bachelor years"
     }
   ],
   "references": [
