@@ -6,7 +6,7 @@
     "email": "tuanpa997@gmail.com",
     "phone": "(+84) 963-317-692",
     "website": "https://noobitard.github.io",
-    "summary": "I am (going to be) a Research Engineer at VinAI Research, Vietnam. Prior to that, I was an AI Research Resident at VinAI Research. \n I graduated with honors from Hanoi University of Science and Technology in 2020.",
+    "summary": "I am a Research Engineer at VinAI Research, Vietnam. Prior to that, I was an AI Research Resident at VinAI Research. \n I graduated with honors from Hanoi University of Science and Technology in 2020.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -121,7 +121,7 @@
       "endDate": "Present",
       "summary": "AI Research Engineer",
       "highlights": [
-        "Research Engineer ăn lương sống qua ngày"
+        "Training Semantic and Panoptic Segmentation model for Data Annotation Team"
       ]
     },
     {
@@ -134,17 +134,6 @@
       "highlights": [
         "Research on Exploration in Reinforcement Learning, Deep Reinforcement Learning and Representation Learning. Supervisors: Dr. Yasin Abbasi-Yadkori and Dr. Tung Pham",
         "Worked as an AI Engineer for 3 months. Developed a distillation method for VinFast autopilot project"
-      ]
-    },
-    {
-      "company": "Worldquant Vietnam",
-      "position": "Collaborators",
-      "website": "https://worldquant.com",
-      "startDate": "Mar 2019",
-      "endDate": "Jun 2019",
-      "summary": "Collaborators",
-      "highlights": [
-        "Create alpha formulas for trading."
       ]
     },
     {
@@ -209,7 +198,7 @@
   "volunteer": [
     {
       "organization": "",
-      "website": "To appear in ICML 2021",
+      "website": "https://arxiv.org/abs/2106.07156",
       "position": "Temporal Predictive Coding For Model-Based Planning In Latent Space, in ICML 2021",
       "startDate": "",
       "endDate": "",
@@ -241,12 +230,6 @@
       "date": "2015-2020",
       "awarder": "Hanoi University of Science and Technology",
       "summary": "Selected 100 from 30,000 students. Awarded in all 5 bachelor years"
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
