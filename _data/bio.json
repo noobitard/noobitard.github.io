@@ -2,11 +2,11 @@
   "basics": {
     "name": "Tuan Pham",
     "label": "AI Research Engineer",
-    "picture": "assets/crop.jpg",
+    "picture": "/assets/crop.jpg",
     "email": "tuanpa997@gmail.com",
     "phone": "(+84) 963-317-692",
     "website": "https://noobitard.github.io",
-    "summary": "I am a Research Engineer at VinAI Research, Vietnam. Prior to that, I was an AI Research Resident at VinAI Research. \n I graduated with honors from Hanoi University of Science and Technology in 2020.",
+    "summary": "I am a Research Engineer at VinAI Research, under supervision of <a href='https://ducthanhnguyen.weebly.com/'>Dr. Duc Thanh Nguyen</a>. Prior to that, I was an AI Research Resident at VinAI Research. I was advised by <a href='https://yasin-abbasi.github.io/'>Dr. Yasin Abbasi-Yadkori</a> and Dr. Tung Pham.<br> I graduated with honors from Hanoi University of Science and Technology in 2020.<br> I enjoy playing guitar in my freetime. Please checkout my <a href='https://www.youtube.com/channel/UCh5UW19DQystikJtvBezsKA'>Youtube channel</a> ;)",
     "location": {
       "address": "",
       "postalCode": "",
@@ -39,17 +39,11 @@
   },
   "interests": [
     {
-      "name": "Reinforcement Learning",
-      "keywords": [
-        "Bandit Theory",
-        "Theoretical RL"
-      ]
-    },
-    {
       "name": "Deep Reinforcement Learning",
       "keywords": [
         "Control from Images",
-        "Sample Efficiency"
+        "Sample Efficiency",
+        "Exploration"
       ]
     },
     {
@@ -121,7 +115,7 @@
       "endDate": "Present",
       "summary": "AI Research Engineer",
       "highlights": [
-        "Training Semantic and Panoptic Segmentation model for Data Annotation Team"
+        "Build Semantic and Panoptic Segmentation model for our Data Annotation Tool"
       ]
     },
     {
@@ -166,7 +160,6 @@
       "endDate": "Apr 2018",
       "summary": "Student of Cinnamon AI Labs Intelligence Program 3, an annual intensive training program in Artificial Intelligence for young talents who desire to become AI engineers in the future.",
       "highlights": [
-        "Learn and practice about Computer Vision and Natural Language Processing"
       ]
     },
     {
@@ -181,18 +174,6 @@
         "Integrate a chatbot for SalesTrekk, based on Google Dialogflow API",
         "Develop a machine learning model for segmenting houses region from satellite images"
       ]
-    },
-    {
-      "company": "Viettel Cyber Security",
-      "position": "Intern",
-      "website": "https://viettelcybersecurity.com",
-      "startDate": "Apr 2017",
-      "endDate": "Jul 2017",
-      "summary": "Security Engineer Intern",
-      "highlights": [
-        "Study about Hacking methods",
-        "Attend CTF contests"
-      ]
     }
   ],
   "volunteer": [
@@ -202,7 +183,7 @@
       "position": "Temporal Predictive Coding For Model-Based Planning In Latent Space, in ICML 2021",
       "startDate": "",
       "endDate": "",
-      "summary": "Tung Nguyen*, Tuan Pham*, Rui Shu*, Stefano Ermon, Hung H. Bui",
+      "summary": "Tung Nguyen*, Rui Shu*, Tuan Pham*, Stefano Ermon, Hung H. Bui",
       "highlights": [
       ]
     },

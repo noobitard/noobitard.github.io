@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/tpc.jpg
+title: Temporal Predictive Coding For Model-Based Planning In Latent Space
+permalink: projects/tpc
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
-labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+date: 2021-05-10
+summary: "Abstract: High-dimensional observations are a major challenge in the application of model-based reinforcement learning (MBRL) to real-world environments. To handle high-dimensional sensory inputs, existing approaches use representation learning to map high-dimensional observations into a lower-dimensional latent space that is more amenable to dynamics estimation and planning. In this work, we present an information-theoretic approach that employs temporal predictive coding to encode elements in the environment that can be predicted across time. Since this approach focuses on encoding temporally-predictable information, we implicitly prioritize the encoding of task-relevant components over nuisance information within the environment that are provably task-irrelevant. By learning this representation in conjunction with a recurrent state space model, we can then perform planning in latent space. We evaluate our model on a challenging modification of standard DMControl tasks where the background is replaced with natural videos that contain complex but irrelevant information to the planning task. Our experiments show that our model is superior to existing methods in the challenging complex-background setting while remaining competitive with current state-of-the-art models in the standard setting."
+authors: Tung Nguyen*, Rui Shu*, Tuan Pham*, Hung Bui, Stefano Ermon
+projecturl: https://arxiv.org/abs/2106.07156
 ---
 
 <div class="ui small rounded images">

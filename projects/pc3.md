@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/pc3.png
+title: Predictive Coding for Locally-Linear Control
+permalink: projects/pc3
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
-labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: "Abstract: High-dimensional observations and unknown dynamics are major challenges when applying optimal control to many real-world decision making tasks. The Learning Controllable Embedding (LCE) framework addresses these challenges by embedding the observations into a lower dimensional latent space, estimating the latent dynamics, and then performing control directly in the latent space. To ensure the learned latent dynamics are predictive of next-observations, all existing LCE approaches decode back into the observation space and explicitly perform next-observation prediction---a challenging high-dimensional task that furthermore introduces a large number of nuisance parameters (i.e., the decoder) which are discarded during control. In this paper, we propose a novel information-theoretic LCE approach and show theoretically that explicit next-observation prediction can be replaced with predictive coding. We then use predictive coding to develop a decoder-free LCE model whose latent dynamics are amenable to locally-linear control. Extensive experiments on benchmark tasks show that our model reliably learns a controllable latent space that leads to superior performance when compared with state-of-the-art LCE baselines."
+authors: Rui Shu*, Tung Nguyen*, Yinlam Chow, Tuan Pham, Khoat Than, Mohammad Ghavamzadeh, Stefano Ermon, Hung H. Bui
+projecturl: https://arxiv.org/abs/2003.01086
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
