@@ -37,3 +37,28 @@ body {
 #clustrmaps-widget-v2{
   display: none !important;
 }
+
+.anim {
+  -webkit-animation: animated-icon 1s ease-in-out both infinite;
+}
+
+@-webkit-keyframes animated-icon {
+  0%,100% {
+      -webkit-transform: translate3d(0,0,0);
+  }
+  50% {
+      -webkit-transform: translate3d(0,-6px,0);
+  }
+}
+
+.cursor{
+  cursor: pointer;
+}
+
+.animated-icon{
+  margin-left: 3px !important;
+}
+
+.icon-white{
+  color: white
+}
