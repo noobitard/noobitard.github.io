@@ -15,19 +15,21 @@ $(document).ready(()=>{
     $('#academic-book').css('-webkit-animation','animated-icon 1s 100ms  ease-in-out both infinite');
 
     $("#music-note").click(()=>{
-        $('body').css('overflow', 'hidden')
+        $('body').css('overflow', 'hidden');
         $("#academic-home-container").fadeToggle(500);
         $("#music-home-container").fadeToggle(500);
         $('body').animate({backgroundColor: '#424549', color: '#FFFFFF'}, 500);
         var source = randomCovers[Math.floor(Math.random()*randomCovers.length)];
         $("#youtube-player").prop("src", source);
+        setTimeout(() => $('body').css('overflow', 'visible'), 500);
     })
 
     $("#academic-book").click(()=>{
-        $('body').css('overflow', 'hidden')
+        $('body').css('overflow', 'hidden');
         $("#academic-home-container").fadeToggle(500);
         $("#music-home-container").fadeToggle(500);
         $('body').animate({backgroundColor: '#f2f2f2', color: '#000000'}, 500);
         $("#youtube-player").prop("src", "");
+        setTimeout(() => $('body').css('overflow', 'visible'), 500);
     })
 })
